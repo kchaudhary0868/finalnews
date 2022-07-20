@@ -1,0 +1,24 @@
+{
+	"name": "gutenify/testimonial",
+	"category": "widgets",
+	"attributes": {
+		"blockClientId": {
+			"type": "string",
+			"default": ""
+		},
+		"blockAdvanceOptions": {
+			"type": "object",
+			"default": {
+				"backgroundColor":"#ffffff"
+			}
+		},
+		"quote": {
+			"type": "string",
+			"default": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sit amet est massa. Sed enim massa, mattis at libero nec, bibendum ultricies augue."
+		},
+		"layout": {
+			"type": "string",
+			"default": "layout-1"
+		}
+	}
+}

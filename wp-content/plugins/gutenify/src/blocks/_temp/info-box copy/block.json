@@ -1,0 +1,90 @@
+{
+	"name": "gutenify/info-box",
+	"category": "gutenify",
+	"attributes": {
+		"quote": {
+			"type": "string",
+			"default": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sit amet est massa. Sed enim massa, mattis at libero nec, bibendum ultricies augue."
+		},
+		"classMigrate": {
+			"type": "boolean",
+			"default": false
+		},
+		"block_id": {
+			"type": "string",
+			"default": "not_set"
+		},
+		"blockClientId": {
+			"type": "string",
+			"default": ""
+		},
+		"blockAdvanceOptions": {
+			"type": "object",
+			"default": {
+			}
+		},
+		"isSaved": {
+			"type": "boolean",
+			"default": false
+		},
+		"className": {
+			"type": "string",
+			"default": "has-shadow-dark"
+		},
+		"iconSource": {
+			"type": "string",
+			"default": "icon"
+		},
+		"iconName": {
+			"type": "string",
+			"default": "fas fa-star"
+		},
+		"iconColor": {
+			"type": "string",
+			"default": ""
+		},
+		"iconGradient": {
+			"type": "string",
+			"default": ""
+		},
+		"iconWidth": {
+			"type": "Number",
+			"default": 40
+		},
+		"iconImage": {
+			"type": "object"
+		},
+		"imageSize": {
+			"type": "string",
+			"default": "thumbnail"
+		},
+		"imageWidth": {
+			"type": "number",
+			"default": 120
+		},
+		"imageWidthType": {
+			"type": "boolean",
+			"default": true
+		},
+		"iconimgBorderRadius": {
+			"type": "number",
+			"default": 0
+		},
+		"title": {
+			"type": "string",
+			"default": "Info box"
+		},
+		"subTitle": {
+			"type": "string",
+			"default": "Info box subtitle"
+		},
+		"content": {
+			"type": "string",
+			"default": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sit amet est massa. Sed enim massa, mattis at libero nec, bibendum ultricies augue."
+		},
+		"hideButton": {
+			"type": "boolean",
+			"default": false
+		}
+	}
+}

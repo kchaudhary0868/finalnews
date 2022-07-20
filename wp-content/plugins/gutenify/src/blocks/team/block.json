@@ -1,0 +1,40 @@
+{
+	"name": "gutenify/team",
+	"category": "gutenify",
+	"attributes": {
+		"blockClientId": {
+			"type": "string",
+			"default": ""
+		},
+		"blockAdvanceOptions": {
+			"type": "object",
+			"default": {
+				"padding": {
+					"desktop": {
+						"top": "20px",
+						"bottom": "20px",
+						"left": "20px",
+						"right": "20px"
+					}
+				}
+			}
+		},
+		"layout": {
+			"type": "string",
+			"default": "layout-1"
+		},
+		"containerSize": {
+			"type": "string",
+			"default": "center"
+		},
+		"columnSize": {
+			"type": "number",
+			"default": 2
+		}
+	},
+	"supports": {
+		"anchor": true,
+		"html": false,
+		"align": ["center", "wide", "full"]
+	}
+}

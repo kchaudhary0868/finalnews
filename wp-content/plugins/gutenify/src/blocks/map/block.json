@@ -1,0 +1,39 @@
+{
+	"name": "gutenify/map",
+	"category": "gutenify",
+	"attributes": {
+		"blockClientId": {
+			"type": "string",
+			"default": ""
+		},
+		"blockAdvanceOptions": {
+			"type": "object",
+			"default": {
+			}
+		},
+		"isSaved": {
+			"type": "boolean",
+			"default": false
+		},
+		"location": {
+			"type": "string",
+			"default": ""
+		},
+		"height": {
+			"type": "number",
+			"default": 400
+		},
+		"pinned": {
+			"type": "boolean",
+			"default": false
+		},
+		"zoom":{
+			"type":"number",
+			"default": 12
+		},
+		"language":{
+			"type": "string",
+			"default": "en"
+		}
+	}
+}

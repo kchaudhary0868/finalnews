@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<rss version="2.0">
+<channel>
+
+	<title>Top Headlines from World Press Review</title>
+
+<link>https://www.worldpress.org</link>
+<description>World News Review</description>
+<language>en-us</language>
+<copyright>Copyright 2022, Worldpress.org. All Rights Reserved</copyright>
+<managingEditor>s.babayev@worldpress.org</managingEditor>
+<webMaster>alex@worldpress.org</webMaster>
+
+			<image>
+				<url>https://worldpress.org/images/objects/governor-best.jpg</url>
+				<title>Top Headlines from World Press Review</title>
+				<link>https://www.worldpress.org</link>
+			</image>
+		<item>
+			<title>Governors up for Reelection 2022, 2023, 2024, and 2025</title>
+					<link> https://worldpress.org/Americas/4137.cfm</link>
+					<description> Of the 36 gubernatorial seats up for re-election in 2022, twenty are Republican, and sixteen are Democrat.  </description>
+					<pubDate>Wed, 01 Jun 2022 11:30:00 GMT</pubDate>
+				</item> <item>
+			<title>Current Members of the U.S. House of Representatives  </title>
+					<link> https://worldpress.org/Americas/4112.cfm</link>
+					<description> This is a list of individuals currently serving in the United States House of Representatives as of the 117th Congress</description>
+					<pubDate>Wed, 04 May 2022 16:33:00 GMT</pubDate>
+				</item> <item>
+			<title>U.S. Senate Seats up for Reelection in 2022 </title>
+					<link> https://worldpress.org/Americas/4111.cfm</link>
+					<description> It&apos;s 2022 vision time. The U.S. Senate elections will be held on Tuesday, November 8, 2020. Thirty-four of the 100 Senators are up for reelection and will serve a six-year term from January 3, 2023, until January 3, 2029. The time to start organizing is now.</description>
+					<pubDate>Wed, 04 May 2022 14:26:00 GMT</pubDate>
+				</item> <item>
+			<title>Why Do So Many Elderly Run America?</title>
+					<link> https://worldpress.org/Americas/4136.cfm</link>
+					<description> Why are US politicians so old compared to other countries?</description>
+					<pubDate>Thu, 31 Mar 2022 15:38:00 GMT</pubDate>
+				</item> <item>
+			<title>Could Putin Be Vulnerable to a Coup?</title>
+					<link> https://worldpress.org/Europe/4135.cfm</link>
+					<description> Could Putin be vulnerable to a coup or uprising? All of the grievances that traditionally motivate a coup against a dictator are in place.</description>
+					<pubDate>Mon, 14 Mar 2022 13:27:00 GMT</pubDate>
+				</item> <item>
+			<title>Should U.S. Flight Attendants Be Paid During Boarding?</title>
+					<link> https://worldpress.org/Americas/4134.cfm</link>
+					<description> The majority of U.S. airlines don't pay their flight attendants until the airplane door closes, even though plane boarding is one of the most stressful parts of their job.</description>
+					<pubDate>Fri, 18 Feb 2022 14:23:00 GMT</pubDate>
+				</item> <item>
+			<title>QAnon vs. Hitler&apos;s Brownshirts</title>
+					<link> https://worldpress.org/Americas/4133.cfm</link>
+					<description> The world has seen QAnon before. It was called Nazism.</description>
+					<pubDate>Thu, 28 Jan 2021 09:02:00 GMT</pubDate>
+				</item> <item>
+			<title>World Headlines: Capitol Siege by MAGA Mob</title>
+					<link> https://worldpress.org/Americas/4132.cfm</link>
+					<description> On January 6, 2021, white insurrectionists stormed the U.S. Capitol, proudly displayed the confederate flag, and set up gallows on the Capitol grounds.</description>
+					<pubDate>Sun, 10 Jan 2021 13:12:00 GMT</pubDate>
+				</item> <item>
+			<title>The Marijuana Industry&apos;s Dirty Little Secret </title>
+					<link> https://worldpress.org/Americas/4130.cfm</link>
+					<description> The runaway-growth in the cannabis industry, fueled by rolling de-regulation and a high demand forecast, is bringing with it a growing carbon footprint. </description>
+					<pubDate>Tue, 14 May 2019 13:37:00 GMT</pubDate>
+				</item> <item>
+			<title>A Personal Account of Hawaii's False Missile Alert</title>
+					<link> https://worldpress.org/Americas/4126.cfm</link>
+					<description> </description>
+					<pubDate>Tue, 20 Feb 2018 11:43:00 GMT</pubDate>
+				</item> <item>
+			<title>Countries North Korea Can Currently Hit With Their Missiles</title>
+					<link> https://worldpress.org/Asia/4118.cfm</link>
+					<description> Should North Korea ever have the capacity to launch a nuclear missile that could reach the U.S. mainland, Trump would have approximately ten minutes to react and make a decision to counterattack.</description>
+					<pubDate>Mon, 29 May 2017 21:21:00 GMT</pubDate>
+				</item> <item>
+	<title>Khalid al-Asaad Slaughtered by ISIS</title>
+					<link> https://worldpress.org/Mideast/4073.cfm</link>
+					<description> Khalid al-Asaad, an 83-year-old caretaker of antiquities in Syria, was beheaded by ISIS, but did not receive the same attention as a slain lion.</description>
+					<pubDate>Sat, 22 Aug 2015 14:52:00 GMT</pubDate>
+				</item>
+		<item>
+	<title>Saudi Arabia Continues to Turn Screws on U.S. Shale </title>
+					<link> https://worldpress.org/Mideast/4053.cfm</link>
+					<description> Saudi Arabia has succeeded in maintaining its market share throughout the oil bust by continuing to ratchet up production.</description>
+					<pubDate>Thu, 14 May 2015 21:27:00 GMT</pubDate>
+				</item>
+		<item>
+	<title>World&apos;s 10 Biggest Energy Gluttons</title>
+					<link> https://worldpress.org/Mideast/4029.cfm</link>
+					<description> A look into which countries use the most energy per capita reveals some surprising results, from the Middle East to the Caribbean. </description>
+					<pubDate>Fri, 03 Oct 2014 15:20:00 GMT</pubDate>
+				</item>
+		<item>
+	<title>&quot;Polish Death Camps&quot; Controversy </title>
+					<link> https://worldpress.org/Europe/4128.cfm</link>
+					<description> </description>
+					<pubDate>Mon, 12 Mar 2018 13:29:00 GMT</pubDate>
+				</item>
+		<item>
+	<title>The Jedwabne Massacre of 1941: An Interview with Marcin Malek </title>
+					<link> https://worldpress.org/Europe/4101.cfm</link>
+					<description> On July 10, 1941, Christian Poles hunted down, clubbed, drowned, gutted, and burned alive 1,600 Jewish men, women, and children-all but seven of the town&apos;s Jews. </description>
+					<pubDate>Wed, 03 Aug 2016 12:16:00 GMT</pubDate>
+				</item>
+		<item>
+	<title>Is Russia Plotting to Bring Down OPEC?</title>
+					<link> https://worldpress.org/Europe/4075.cfm</link>
+					<description> Russia&apos;s economy is heavily dependent on its energy industry, and President Vladimir Putin is playing a long, complex game to combat low oil prices.</description>
+					<pubDate>Tue, 06 Oct 2015 23:09:00 GMT</pubDate>
+				</item>
+		<item>
+	<title>Could Iran Emerge as the Middle East Superpower?</title>
+					<link> https://worldpress.org/Asia/4115.cfm</link>
+					<description> </description>
+					<pubDate>Mon, 17 Apr 2017 10:35:00 GMT</pubDate>
+				</item>
+		<item>
+	<title>Taiwan Seeks to Join Fight Against Global Warming</title>
+					<link> https://worldpress.org/Asia/4105.cfm</link>
+					<description> The Paris Agreement on climate change, was signed in New York on April 22 by world leaders of 175 countries at the largest, single-day signing ceremony in history. What once seemed unthinkable, is now unstoppable. Every nation has been encouraged to join the chorus of voices combating climate change. So why has Taiwan, who is ready and willing, with vast experience to share, been left on the sidelines?</description>
+					<pubDate>Tue, 25 Oct 2016 13:13:00 GMT</pubDate>
+				</item>
+		<item>
+	<title>Taiwan&apos;s Participation in the WHO Annual Assembly Is Vital to Ensuring Global Health Security</title>
+					<link> https://worldpress.org/Asia/4097.cfm</link>
+					<description> Taiwan accepts World Health Organization invitation despite political caveat from China </description>
+					<pubDate>Sat, 21 May 2016 12:01:00 GMT</pubDate>
+				</item>
+		<item>
+	<title>Minigrids: The Next Energy Beacon</title>
+					<link> https://worldpress.org/Asia/4086.cfm</link>
+					<description> Village-scale solar-powered minigrids are the most promising path for India to meet its linked aims of GDP growth and access to electricity for all.</description>
+					<pubDate>Mon, 18 Jan 2016 19:30:00 GMT</pubDate>
+				</item>
+		<item>
+	<title>The Day Hell Came to School</title>
+					<link> https://worldpress.org/Americas/4123.cfm</link>
+					<description> </description>
+					<pubDate>Thu, 14 Dec 2017 12:40:00 GMT</pubDate>
+				</item>
+		<item>
+	<title>The Top 5 Places to Work in U.S. Oil and Gas </title>
+					<link> https://worldpress.org/Americas/4110.cfm</link>
+					<description> Anadarko Petroleum, Chevron, Plains All American, Occidental Petroleum and Noble Energy have emerged as the top five &quot;Best Places to Work&quot; in the U.S. oil and gas industry. </description>
+					<pubDate>Tue, 17 Jan 2017 12:01:00 GMT</pubDate>
+				</item>
+		<item>
+	<title>Did Oil Kill the Dinosaurs? </title>
+					<link> https://worldpress.org/Americas/4100.cfm</link>
+					<description> Sixty-six million years ago, planet Earth was forever changed when a six-mile-wide asteroid smashed into the Yucatan Peninsula, triggering a series of events that killed off the dinosaurs.</description>
+					<pubDate>Thu, 28 Jul 2016 10:51:00 GMT</pubDate>
+				</item>
+		<item>
+	<title>Viewpoints: Is Tax Avoidance Destroying America?</title>
+					<link> https://worldpress.org/Americas/4096.cfm</link>
+					<description> Why don't the rich pay their fair share in taxes? </description>
+					<pubDate>Sat, 14 May 2016 17:23:00 GMT</pubDate>
+				</item>
+		<item>
+	<title>Viewpoints: The Growing Water Crisis in America</title>
+					<link> https://worldpress.org/Americas/4093.cfm</link>
+					<description> Americans live under the assumption that water is cheap, pure, and plentiful. But how true is that?</description>
+					<pubDate>Thu, 24 Mar 2016 16:01:00 GMT</pubDate>
+				</item>
+		<item>
+	<title>Child Brides in Zimbabwe</title>
+					<link> https://worldpress.org/Africa/4106.cfm</link>
+					<description> Legal frameworks play a powerful role in transforming norms and protecting girls' rights. Although many African countries have established 18 as the minimum marriage age for girls, weak enforcement has meant these laws have had little impact.</description>
+					<pubDate>Tue, 15 Nov 2016 10:20:00 GMT</pubDate>
+				</item>
+		<item>
+	<title>Food Insecurity and Climate Change in Egypt</title>
+					<link> https://worldpress.org/Africa/4052.cfm</link>
+					<description> Egypt must adapt to climate change by introducing new crops, investing in farming technology and changing subsidies to protect the most vulnerable.</description>
+					<pubDate>Mon, 04 May 2015 18:52:00 GMT</pubDate>
+				</item>
+		<item>
+	<title>Tunisia: Escaping the Great Mosque of Uqba</title>
+					<link> https://worldpress.org/Africa/4050.cfm</link>
+					<description> The Great Mosque, in all its majestic grandeur, is less enticing if you&apos;re an American woman who somehow finds herself inside it.</description>
+					<pubDate>Thu, 23 Apr 2015 20:58:00 GMT</pubDate>
+				</item>
+		
+ </channel>
+</rss>

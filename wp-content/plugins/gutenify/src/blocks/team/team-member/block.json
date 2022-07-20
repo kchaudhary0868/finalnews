@@ -1,0 +1,20 @@
+{
+	"name": "gutenify/team-member",
+	"category": "widgets",
+	"attributes": {
+		"blockClientId": {
+			"type": "string",
+			"default": ""
+		},
+		"blockAdvanceOptions": {
+			"type": "object",
+			"default": {
+				"backgroundColor":"#fff"
+			}
+		},
+		"layout": {
+			"type": "string",
+			"default": "layout-1"
+		}
+	}
+}

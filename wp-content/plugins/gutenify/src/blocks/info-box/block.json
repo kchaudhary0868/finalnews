@@ -1,0 +1,46 @@
+{
+	"name": "gutenify/info-box",
+	"category": "gutenify",
+	"attributes": {
+		"className": {
+			"type": "string",
+			"default": "apple"
+		},
+		"blockClientId": {
+			"type": "string",
+			"default": ""
+		},
+		"blockAdvanceOptions": {
+			"type": "object",
+			"default": {
+				"backgroundColor":"#fff",
+				"padding": {
+					"desktop": {
+						"top": "40px",
+						"right": "40px",
+						"bottom": "40px",
+						"left": "40px"
+					}
+				}
+			}
+		},
+		"layout": {
+			"type": "string",
+			"default": "layout-1"
+		},
+		"iconAlign": {
+			"type": "string"
+		},
+		"titleAlign": {
+			"type": "string"
+		},
+		"borderRadius": {
+			"type": "string",
+			"default": 0
+		},
+		"borderWidth": {
+			"type": "number",
+			"default": 0
+		}
+	}
+}

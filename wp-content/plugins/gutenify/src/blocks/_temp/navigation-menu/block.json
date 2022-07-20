@@ -1,0 +1,59 @@
+{
+	"name": "gutenify/navigation-menu",
+	"category": "widgets",
+	"attributes": {
+		"block_id": {
+			"type": "string",
+			"default": "not_set"
+		},
+		"blockClientId": {
+			"type": "string",
+			"default": ""
+		},
+		"blockAdvanceOptions": {
+			"type": "object",
+			"default":{
+				"backgroundColor": "#fff",
+				"backgroundGradient": "",
+				"padding" : {
+					"desktop" : {
+						"top" :  "40px",
+						"bottom" :  "40px"
+					}
+				}
+			}
+		},
+		"isSaved" : {
+			"type" : "boolean",
+			"default": false
+		},
+		"align":{
+			"type": "string",
+			"default": "full"
+		},
+		"stretchContainer": {
+			"type": "boolean",
+			"default": false
+		},
+		"fullWidthStretchContainer": {
+			"type": "boolean",
+			"default": false
+		},
+		"maxWidth": {
+			"type": "string",
+			"default": "1200px"
+		},
+		"contentJustification": {
+			"type": "string"
+		},
+		"orientation": {
+			"type": "string",
+			"default": "horizontal"
+		}
+	},
+	"supports":{
+		"anchor": true,
+		"html": false,
+		"align": [ "center", "wide", "full" ]
+	}
+}

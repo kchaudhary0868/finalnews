@@ -1,0 +1,31 @@
+{
+	"$schema": "https://schemas.wp.org/trunk/block.json",
+	"name": "gutenify/content-toggle-item",
+	"category": "gutenify",
+	"attributes": {
+		"blockClientId": {
+			"type": "string",
+			"default": ""
+		},
+		"blockAdvanceOptions": {
+			"type": "object",
+			"default": {
+				"backgroundColor": "",
+				"backgroundGradient": "",
+				"padding": {
+					"desktop": {}
+				}
+			}
+		},
+		"title": {
+			"type": "string"
+		},
+		"initialOpen": {
+			"type": "boolean",
+			"default": true
+		}
+	},
+	"supports": {
+		"html": false
+	}
+}

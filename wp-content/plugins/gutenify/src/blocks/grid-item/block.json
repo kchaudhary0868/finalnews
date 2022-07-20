@@ -1,0 +1,16 @@
+{
+	"apiVersion": 2,
+	"name": "gutenify/grid-item",
+	"category": "gutenify",
+	"attributes": {
+		"blockClientId": {
+			"type": "string",
+			"default": ""
+		},
+		"blockAdvanceOptions": {
+			"type": "object",
+			"default": {
+			}
+		}
+	}
+}

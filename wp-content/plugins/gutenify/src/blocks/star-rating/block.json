@@ -1,0 +1,24 @@
+{
+	"name": "gutenify/star-rating",
+	"category": "gutenify",
+	"attributes": {
+		"blockClientId": {
+			"type": "string",
+			"default": ""
+		},
+		"blockAdvanceOptions": {
+			"type": "object",
+			"default": {
+				"textColor": "#ff9800"
+			}
+		},
+		"rating": {
+			"type": "number",
+			"default": 5
+		},
+		"textAlignment": {
+			"type": "string",
+			"default": "center"
+		}
+	}
+}

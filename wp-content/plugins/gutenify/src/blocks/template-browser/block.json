@@ -1,0 +1,10 @@
+{
+	"name": "gutenify/templates-button",
+	"category": "gutenify",
+	"attributes": {
+		"isTemplatesModalOnly": {
+			"type": "boolean",
+			"default": false
+		}
+	}
+}

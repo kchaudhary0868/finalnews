@@ -1,0 +1,53 @@
+{
+	"name": "gutenify/wc-product-carousel",
+	"category": "gutenify",
+	"attributes": {
+		"blockClientId": {
+			"type": "string",
+			"default": ""
+		},
+		"blockAdvanceOptions": {
+			"type": "object",
+			"default": {
+				"itemBackgroundColor": "#fff",
+				"itemLinkColor": "",
+				"itemColor": "",
+				"innerBlock": {}
+			}
+		},
+		"columns": {
+			"type": "number",
+			"default": 2
+		},
+		"displayFeaturedImage": {
+			"type": "boolean",
+			"default": true
+		},
+		"query": {
+			"type": "object",
+			"default": {
+				"numberOfItems": 3
+			}
+		},
+		"spaceBetween": {
+			"type": "number",
+			"default": 30
+		},
+		"hasNavigation": {
+			"type": "boolean",
+			"default": true
+		},
+		"hasPagination": {
+			"type": "boolean",
+			"default": true
+		},
+		"isAutoplay": {
+			"type": "boolean",
+			"default": false
+		},
+		"layout": {
+			"type": "string",
+			"default": "layout-1"
+		}
+	}
+}

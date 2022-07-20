@@ -1,0 +1,49 @@
+{
+	"name": "gutenify/testimonials",
+	"category": "gutenify",
+	"attributes": {
+		"blockClientId": {
+			"type": "string",
+			"default": ""
+		},
+		"blockAdvanceOptions": {
+			"type": "object",
+			"default": {
+				"textColor":"",
+				"padding": {
+					"desktop": {
+						"top": "20px",
+						"bottom": "20px",
+						"left": "20px",
+						"right": "20px"
+					}
+				}
+			}
+		},
+		"isSaved": {
+			"type": "boolean",
+			"default": false
+		},
+		"layout": {
+			"type": "string",
+			"default": "layout-1"
+		},
+		"containerSize": {
+			"type": "string",
+			"default": "center"
+		},
+		"columnSize": {
+			"type": "number",
+			"default": 2
+		},
+		"hideRating":{
+			"type": "boolean",
+			"default": false
+		}
+	},
+	"supports": {
+		"anchor": true,
+		"html": false,
+		"align": [ "wide", "full"]
+	}
+}

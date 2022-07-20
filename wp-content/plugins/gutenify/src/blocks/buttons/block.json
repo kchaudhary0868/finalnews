@@ -1,0 +1,25 @@
+{
+	"apiVersion": 2,
+	"name": "gutenify/buttons",
+	"category": "gutenify",
+	"attributes": {
+		"blockClientId": {
+			"type": "string",
+			"default": ""
+		},
+		"blockAdvanceOptions": {
+			"type": "object",
+			"default": {
+			}
+		},
+		"contentJustification": {
+			"type": "string"
+		},
+		"orientation": {
+			"type": "string",
+			"default": "horizontal"
+		}
+	},
+	"editorStyle": "gutenify-buttons-editor",
+	"style": "gutenify-buttons"
+}
