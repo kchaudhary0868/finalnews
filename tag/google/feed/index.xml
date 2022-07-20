@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Google &#8211; News</title>
+	<atom:link href="https://https://kchaudhary0868.github.io/news/tag/google/feed/" rel="self" type="application/rss+xml" />
+	<link>https://https://kchaudhary0868.github.io/news</link>
+	<description></description>
+	<lastBuildDate>Wed, 20 Jul 2022 15:50:06 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0.1</generator>
+	<item>
+		<title>Google Flights — database of air travel information</title>
+		<link>https://https://kchaudhary0868.github.io/news/2015/03/19/google-flights-database-of-air-travel-information/</link>
+					<comments>https://https://kchaudhary0868.github.io/news/2015/03/19/google-flights-database-of-air-travel-information/#respond</comments>
+		
+		<dc:creator><![CDATA[kamal]]></dc:creator>
+		<pubDate>Thu, 19 Mar 2015 09:26:28 +0000</pubDate>
+				<category><![CDATA[Tech]]></category>
+		<category><![CDATA[Travel]]></category>
+		<category><![CDATA[Google]]></category>
+		<guid isPermaLink="false">http://demo.theme-junkie.com/mystery/?p=64</guid>
+
+					<description><![CDATA[There are plenty of search engines out there to find a cheap flight. Maybe you’ve got a favorite tool like Skyscanner, Hopper, or an online travel agency like Priceline or Expedia. But one option is better than all the rest: Google Flights. Yes, that’s right, the search engine behemoth is also king when it comes to [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>There are plenty of search engines out there to find a cheap flight. Maybe you’ve got a favorite tool like Skyscanner, Hopper, or an online travel agency like Priceline or Expedia. But one option is better than all the rest: <strong>Google Flights.</strong></p>
+<p>Yes, that’s right, the search engine behemoth is also king when it comes to finding cheap flights. It’s incredibly powerful, with tons of features that will help you zero in on the best price. And it’s got a bevy of filters you can use to narrow down to the flights you really want … and avoid the ones you don’t. Plus, you can use this tool to search almost all carriers and book directly with an airline rather than through a third party – something that’s <a href="https://thriftytraveler.com/news/travel/coronavirus-lesson-ota/" target="_blank" rel="noopener">more important than ever right now</a>.</p>
+<p>We’ll show you some of the best tips and tricks to book your next cheap flight at the lowest price. When you’re done, you’ll never use another flight search engine again.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://https://kchaudhary0868.github.io/news/2015/03/19/google-flights-database-of-air-travel-information/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

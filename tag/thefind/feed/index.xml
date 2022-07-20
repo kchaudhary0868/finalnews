@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>TheFind &#8211; News</title>
+	<atom:link href="https://https://kchaudhary0868.github.io/news/tag/thefind/feed/" rel="self" type="application/rss+xml" />
+	<link>https://https://kchaudhary0868.github.io/news</link>
+	<description></description>
+	<lastBuildDate>Wed, 20 Jul 2022 16:18:09 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0.1</generator>
+	<item>
+		<title>Facebook buys TheFind</title>
+		<link>https://https://kchaudhary0868.github.io/news/2015/03/19/facebook-buys-thefind/</link>
+					<comments>https://https://kchaudhary0868.github.io/news/2015/03/19/facebook-buys-thefind/#respond</comments>
+		
+		<dc:creator><![CDATA[kamal]]></dc:creator>
+		<pubDate>Thu, 19 Mar 2015 08:30:28 +0000</pubDate>
+				<category><![CDATA[Business]]></category>
+		<category><![CDATA[Facebook]]></category>
+		<category><![CDATA[featured]]></category>
+		<category><![CDATA[TheFind]]></category>
+		<guid isPermaLink="false">http://demo.theme-junkie.com/mystery/?p=67</guid>
+
+					<description><![CDATA[Facebook today announced it has acquired personalized shopping search engine TheFind to help improve its commerce ads. TheFind had raised $26 million from Lightspeed and Redpoint since getting off the ground around 2005, but will now be shut down. Some, but not all, members of the team are joining Facebook. TheFind’s product allowed people to get customized recommendations for [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p id="speakable-summary">Facebook today announced it has acquired personalized shopping search engine <a href="http://www.thefind.com/" target="_blank" rel="noopener">TheFind</a> to help improve its commerce ads. TheFind had raised <a href="https://www.crunchbase.com/organization/thefind" target="_blank" rel="noopener">$26 million</a> from Lightspeed and Redpoint since getting off the ground around 2005, but will now be shut down. Some, but not all, members of the team are joining Facebook.</p>
+<p>TheFind’s product allowed people to get customized recommendations for products while searching through its massive database of products. A user could enter somewhat generic terms like “black sweater” and then compare prices on black sweaters from a wide array of retailers aggregated by TheFind. They could also discover places to buy their chosen product locally if they want it immediately.</p>
+<p>Just last month, Facebook launched a <a href="https://beta.techcrunch.com/2015/02/17/facebook-product-ads/#fTw4kd:NC8B">special ad unit</a> designed to highlight specific products a merchant is trying to sell. TheFind could help Facebook better match not just a company to a user, but make sure the products shown in the ads are things they’re likely to buy.</p>
+<p><img loading="lazy" class="aligncenter size-large wp-image-1132117" src="https://beta.techcrunch.com/wp-content/uploads/2015/03/screen-shot-2015-03-13-at-3-49-57-pm.png?w=680" sizes="(max-width: 680px) 100vw, 680px" srcset="https://techcrunch.com/wp-content/uploads/2015/03/screen-shot-2015-03-13-at-3-49-57-pm.png 1010w, https://techcrunch.com/wp-content/uploads/2015/03/screen-shot-2015-03-13-at-3-49-57-pm.png?resize=150,72 150w, https://techcrunch.com/wp-content/uploads/2015/03/screen-shot-2015-03-13-at-3-49-57-pm.png?resize=300,144 300w, https://techcrunch.com/wp-content/uploads/2015/03/screen-shot-2015-03-13-at-3-49-57-pm.png?resize=768,370 768w, https://techcrunch.com/wp-content/uploads/2015/03/screen-shot-2015-03-13-at-3-49-57-pm.png?resize=680,327 680w, https://techcrunch.com/wp-content/uploads/2015/03/screen-shot-2015-03-13-at-3-49-57-pm.png?resize=50,24 50w" alt="Screen Shot 2015-03-13 at 3.49.57 PM" width="680" height="327" /></p>
+<p>Over the past few years, Facebook had increasingly courted big-brand advertisers and developers seeking to buy app install ads. But with the new product ads and this acquisition, it seems intent on squeezing more cash out of direct marketers, e-commerce companies, and fashion brands.</p>
+<p>Facebook tells me:</p>
+<blockquote><p>“We’re excited to welcome TheFind to Facebook. TheFind’s talented team has built a successful search engine that connects people to products. Together, we believe we can make the Facebook ads experience even more relevant and better for consumers. Our business is about connecting people with the topics, companies, brands, and increasingly products they care about and we look forward to doing that with TheFind on board.”</p></blockquote>
+<p>TheFind writes:</p>
+<blockquote><p><em>We are joining Facebook!</em></p>
+<p><strong> </strong>For the last nine years, we’ve worked hard to bring you a shopping experience that’s easy, efficient and fun – searching all the stores on the web to find just the right products you’re looking to buy.</p>
+<p>We are now starting our next chapter by combining forces with Facebook to do even more for consumers. Facebook’s resources and platform give us the opportunity to scale our expertise in product sourcing to the over 1 billion people that use the platform.</p>
+<p>Key members of our team are joining the company and will be working hard to integrate our technology to make the ads you see on Facebook every day better and more relevant to you.</p>
+<p>Unfortunately, this means we will be taking our search engine offline in the next few weeks.</p>
+<p>Thank you for your loyalty and for making this a fun journey for all of us!</p></blockquote>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://https://kchaudhary0868.github.io/news/2015/03/19/facebook-buys-thefind/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

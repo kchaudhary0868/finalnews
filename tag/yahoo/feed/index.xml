@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Yahoo &#8211; News</title>
+	<atom:link href="https://https://kchaudhary0868.github.io/news/tag/yahoo/feed/" rel="self" type="application/rss+xml" />
+	<link>https://https://kchaudhary0868.github.io/news</link>
+	<description></description>
+	<lastBuildDate>Wed, 20 Jul 2022 15:44:46 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0.1</generator>
+	<item>
+		<title>Yahoo Introduces Password &#8211; Free Login</title>
+		<link>https://https://kchaudhary0868.github.io/news/2015/03/19/yahoo-introduces-password-free-login/</link>
+					<comments>https://https://kchaudhary0868.github.io/news/2015/03/19/yahoo-introduces-password-free-login/#respond</comments>
+		
+		<dc:creator><![CDATA[kamal]]></dc:creator>
+		<pubDate>Thu, 19 Mar 2015 09:51:25 +0000</pubDate>
+				<category><![CDATA[Tech]]></category>
+		<category><![CDATA[Yahoo]]></category>
+		<guid isPermaLink="false">http://demo.theme-junkie.com/mystery/?p=77</guid>
+
+					<description><![CDATA[Yahoo wants to end your dependency on memorizing passwords — or creating crap ones that can be guessed or hacked — after it introduced a new “on-demand” system that sends a one-time password when you need to log in. The new approach is designed to increase security and make your Yahoo account less hackable. In some ways it achieves that. Countless [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p id="speakable-summary">Yahoo wants to end your dependency on memorizing passwords — or creating crap ones that can be guessed or hacked — after it <a href="http://yahoo.tumblr.com/post/113708272894/a-new-simple-way-to-log-in" target="_blank" rel="noopener">introduced</a> a new “on-demand” system that sends a one-time password when you need to log in.</p>
+<p>The new approach is designed to increase security and make your Yahoo account less hackable. In some ways it achieves that. Countless millions of people recycle memorable passwords across a number of services, including their email account. Not only are they usually fairly hackable in nature (<a href="https://beta.techcrunch.com/2015/01/20/this-list-of-2014s-worst-passwords-including-123456-is-embarrassing/">randomized passwords are preferred</a>), but they’re inherently insecure because, if/when cracked, they open large parts of your digital identity, or your <em>entire</em> online presence.</p>
+<p>On-demand passwords, which are not usable after you’ve logged in, are designed to remove that password-chain/ potential domino effect because they are specific to your Yahoo account. But, there’s one fairly major caveat: if you lose your phone, the person in possession of it has a ticket into your email.</p>
+<p>In some cases, if you get SMS notifications on your lock-screen, the on-demand password will show up even if your phone is locked. So, if you lose it, the person who picks it up doesn’t even need to know your passcode to get into your Yahoo account once they know your ID.</p>
+<p>A better approach might be two-step passwords, whereby after entering your main password, you are then set a temporary password via SMS. That’s the basic if two-factor authentication. <a href="http://www.cnet.com/uk/news/yahoo-wants-to-let-you-forget-your-yahoo-password/" target="_blank" rel="noopener">Yahoo told CNET </a>that this is “the first step to eliminating passwords,” so we <del>hope</del> expect that there’s more to come on that front.</p>
+<p>Yahoo is right to focus on mobile security, it’s an area where the average internet user is chronically unaware of best practices. <a href="http://www.theverge.com/a/anatomy-of-a-hack" target="_blank" rel="noopener">Even those who are more savvy get caught out</a>. The best approach remains a password manager, such as 1Password or LastPass, and an awareness of the risks.</p>
+<p>In related news, the company also showed an early glimpse of <a href="https://beta.techcrunch.com/2014/08/07/yahoo-to-strengthen-email-encryption/">its end-to-end email encryption plug-in</a>, which <a href="https://beta.techcrunch.com/2014/12/17/googles-end-to-end-email-encryption-tool-gets-closer-to-launch/">it is working on in conjunction with Google</a>, at South-By-Southwest.</p>
+<p>The video below — <a href="http://www.theverge.com/2015/3/15/8219529/yahoo-on-demand-passwords-and-end-to-end-email-sxsw-2015" target="_blank" rel="noopener">via The Verge</a> — aims to show how much easier Yahoo’s solution is to convention encryption options. The feature will be optional for users. When activated, it will keep the body of an email encrypted but leave basic details, like the timestamp and subject, unencrypted. <a href="http://blogs.wsj.com/digits/2015/03/15/yahoo-exec-shows-encrypted-email-at-sxsw/" target="_blank" rel="noopener">Yahoo expects it to be made available</a> before the end of the year.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://https://kchaudhary0868.github.io/news/2015/03/19/yahoo-introduces-password-free-login/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

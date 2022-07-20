@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Avengers &#8211; News</title>
+	<atom:link href="https://https://kchaudhary0868.github.io/news/tag/avengers/feed/" rel="self" type="application/rss+xml" />
+	<link>https://https://kchaudhary0868.github.io/news</link>
+	<description></description>
+	<lastBuildDate>Wed, 20 Jul 2022 15:40:19 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0.1</generator>
+	<item>
+		<title>Avengers: Age of Ultron trailer</title>
+		<link>https://https://kchaudhary0868.github.io/news/2015/03/19/avengers-age-of-ultron-trailer/</link>
+					<comments>https://https://kchaudhary0868.github.io/news/2015/03/19/avengers-age-of-ultron-trailer/#respond</comments>
+		
+		<dc:creator><![CDATA[kamal]]></dc:creator>
+		<pubDate>Thu, 19 Mar 2015 10:10:14 +0000</pubDate>
+				<category><![CDATA[Lifestyle]]></category>
+		<category><![CDATA[Video]]></category>
+		<category><![CDATA[Avengers]]></category>
+		<guid isPermaLink="false">http://demo.theme-junkie.com/mystery/?p=94</guid>
+
+					<description><![CDATA[When Tony Stark jumpstarts a dormant peacekeeping program, things go awry and Earth’s Mightiest Heroes, including Iron Man, Captain America, Thor, The Incredible Hulk, Black Widow and Hawkeye, are put to the ultimate test as they battle to save the planet from destruction at the hands of the villainous Ultron.]]></description>
+										<content:encoded><![CDATA[<p><iframe loading="lazy" title="Age of Ultron Trailers Chronological Edit" width="640" height="360" src="https://www.youtube.com/embed/eUuDYSoGJ3I?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+<p>When Tony Stark jumpstarts a dormant peacekeeping program, things go awry and Earth’s Mightiest Heroes, including Iron Man, Captain America, Thor, The Incredible Hulk, Black Widow and Hawkeye, are put to the ultimate test as they battle to save the planet from destruction at the hands of the villainous Ultron.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://https://kchaudhary0868.github.io/news/2015/03/19/avengers-age-of-ultron-trailer/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

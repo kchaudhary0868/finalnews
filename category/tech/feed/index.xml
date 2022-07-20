@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Tech &#8211; News</title>
+	<atom:link href="https://https://kchaudhary0868.github.io/news/category/tech/feed/" rel="self" type="application/rss+xml" />
+	<link>https://https://kchaudhary0868.github.io/news</link>
+	<description></description>
+	<lastBuildDate>Wed, 20 Jul 2022 16:36:38 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0.1</generator>
+	<item>
+		<title>Yahoo Introduces Password &#8211; Free Login</title>
+		<link>https://https://kchaudhary0868.github.io/news/2015/03/19/yahoo-introduces-password-free-login/</link>
+					<comments>https://https://kchaudhary0868.github.io/news/2015/03/19/yahoo-introduces-password-free-login/#respond</comments>
+		
+		<dc:creator><![CDATA[kamal]]></dc:creator>
+		<pubDate>Thu, 19 Mar 2015 09:51:25 +0000</pubDate>
+				<category><![CDATA[Tech]]></category>
+		<category><![CDATA[Yahoo]]></category>
+		<guid isPermaLink="false">http://demo.theme-junkie.com/mystery/?p=77</guid>
+
+					<description><![CDATA[Yahoo wants to end your dependency on memorizing passwords — or creating crap ones that can be guessed or hacked — after it introduced a new “on-demand” system that sends a one-time password when you need to log in. The new approach is designed to increase security and make your Yahoo account less hackable. In some ways it achieves that. Countless [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p id="speakable-summary">Yahoo wants to end your dependency on memorizing passwords — or creating crap ones that can be guessed or hacked — after it <a href="http://yahoo.tumblr.com/post/113708272894/a-new-simple-way-to-log-in" target="_blank" rel="noopener">introduced</a> a new “on-demand” system that sends a one-time password when you need to log in.</p>
+<p>The new approach is designed to increase security and make your Yahoo account less hackable. In some ways it achieves that. Countless millions of people recycle memorable passwords across a number of services, including their email account. Not only are they usually fairly hackable in nature (<a href="https://beta.techcrunch.com/2015/01/20/this-list-of-2014s-worst-passwords-including-123456-is-embarrassing/">randomized passwords are preferred</a>), but they’re inherently insecure because, if/when cracked, they open large parts of your digital identity, or your <em>entire</em> online presence.</p>
+<p>On-demand passwords, which are not usable after you’ve logged in, are designed to remove that password-chain/ potential domino effect because they are specific to your Yahoo account. But, there’s one fairly major caveat: if you lose your phone, the person in possession of it has a ticket into your email.</p>
+<p>In some cases, if you get SMS notifications on your lock-screen, the on-demand password will show up even if your phone is locked. So, if you lose it, the person who picks it up doesn’t even need to know your passcode to get into your Yahoo account once they know your ID.</p>
+<p>A better approach might be two-step passwords, whereby after entering your main password, you are then set a temporary password via SMS. That’s the basic if two-factor authentication. <a href="http://www.cnet.com/uk/news/yahoo-wants-to-let-you-forget-your-yahoo-password/" target="_blank" rel="noopener">Yahoo told CNET </a>that this is “the first step to eliminating passwords,” so we <del>hope</del> expect that there’s more to come on that front.</p>
+<p>Yahoo is right to focus on mobile security, it’s an area where the average internet user is chronically unaware of best practices. <a href="http://www.theverge.com/a/anatomy-of-a-hack" target="_blank" rel="noopener">Even those who are more savvy get caught out</a>. The best approach remains a password manager, such as 1Password or LastPass, and an awareness of the risks.</p>
+<p>In related news, the company also showed an early glimpse of <a href="https://beta.techcrunch.com/2014/08/07/yahoo-to-strengthen-email-encryption/">its end-to-end email encryption plug-in</a>, which <a href="https://beta.techcrunch.com/2014/12/17/googles-end-to-end-email-encryption-tool-gets-closer-to-launch/">it is working on in conjunction with Google</a>, at South-By-Southwest.</p>
+<p>The video below — <a href="http://www.theverge.com/2015/3/15/8219529/yahoo-on-demand-passwords-and-end-to-end-email-sxsw-2015" target="_blank" rel="noopener">via The Verge</a> — aims to show how much easier Yahoo’s solution is to convention encryption options. The feature will be optional for users. When activated, it will keep the body of an email encrypted but leave basic details, like the timestamp and subject, unencrypted. <a href="http://blogs.wsj.com/digits/2015/03/15/yahoo-exec-shows-encrypted-email-at-sxsw/" target="_blank" rel="noopener">Yahoo expects it to be made available</a> before the end of the year.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://https://kchaudhary0868.github.io/news/2015/03/19/yahoo-introduces-password-free-login/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Google Flights — database of air travel information</title>
+		<link>https://https://kchaudhary0868.github.io/news/2015/03/19/google-flights-database-of-air-travel-information/</link>
+					<comments>https://https://kchaudhary0868.github.io/news/2015/03/19/google-flights-database-of-air-travel-information/#respond</comments>
+		
+		<dc:creator><![CDATA[kamal]]></dc:creator>
+		<pubDate>Thu, 19 Mar 2015 09:26:28 +0000</pubDate>
+				<category><![CDATA[Tech]]></category>
+		<category><![CDATA[Travel]]></category>
+		<category><![CDATA[Google]]></category>
+		<guid isPermaLink="false">http://demo.theme-junkie.com/mystery/?p=64</guid>
+
+					<description><![CDATA[There are plenty of search engines out there to find a cheap flight. Maybe you’ve got a favorite tool like Skyscanner, Hopper, or an online travel agency like Priceline or Expedia. But one option is better than all the rest: Google Flights. Yes, that’s right, the search engine behemoth is also king when it comes to [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>There are plenty of search engines out there to find a cheap flight. Maybe you’ve got a favorite tool like Skyscanner, Hopper, or an online travel agency like Priceline or Expedia. But one option is better than all the rest: <strong>Google Flights.</strong></p>
+<p>Yes, that’s right, the search engine behemoth is also king when it comes to finding cheap flights. It’s incredibly powerful, with tons of features that will help you zero in on the best price. And it’s got a bevy of filters you can use to narrow down to the flights you really want … and avoid the ones you don’t. Plus, you can use this tool to search almost all carriers and book directly with an airline rather than through a third party – something that’s <a href="https://thriftytraveler.com/news/travel/coronavirus-lesson-ota/" target="_blank" rel="noopener">more important than ever right now</a>.</p>
+<p>We’ll show you some of the best tips and tricks to book your next cheap flight at the lowest price. When you’re done, you’ll never use another flight search engine again.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://https://kchaudhary0868.github.io/news/2015/03/19/google-flights-database-of-air-travel-information/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>World&#8217;s biggest aircraft gets closer to takeoff</title>
+		<link>https://https://kchaudhary0868.github.io/news/2015/03/19/worlds-biggest-aircraft-gets-closer-to-takeoff/</link>
+					<comments>https://https://kchaudhary0868.github.io/news/2015/03/19/worlds-biggest-aircraft-gets-closer-to-takeoff/#respond</comments>
+		
+		<dc:creator><![CDATA[kamal]]></dc:creator>
+		<pubDate>Thu, 19 Mar 2015 09:15:37 +0000</pubDate>
+				<category><![CDATA[Tech]]></category>
+		<category><![CDATA[Travel]]></category>
+		<category><![CDATA[airlander]]></category>
+		<guid isPermaLink="false">http://demo.theme-junkie.com/mystery/?p=55</guid>
+
+					<description><![CDATA[The hefty, double-bodied Stratolaunch airplane — its wingspan of 385 feet (117 meters) is the widest in the world — recently reached a new milestone that brings it one step closer to leaving the ground. In runway tests conducted on Sunday (Feb. 25) at the Mojave Air and Space Port in Mojave, California, Stratolaunch achieved [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>The hefty, double-bodied Stratolaunch airplane — its wingspan of 385 feet (117 meters) is the widest in the world — recently reached a new milestone that brings it one step closer to leaving the ground.</p>
+<p>In runway tests conducted on Sunday (Feb. 25) at the Mojave Air and Space Port in Mojave, California, Stratolaunch achieved a taxi speed of 46 mph (74 km/h), according <a class="hawk-link-parsed" href="https://twitter.com/PaulGAllen/status/968168785076142080" data-url="https://twitter.com/PaulGAllen/status/968168785076142080" data-component-tracked="1">to a tweet</a> posted on Feb. 26 by Paul Allen, founder of Stratolaunch Systems Corp. and co-founder of Microsoft.</p>
+<aside class="hawk-nest hawk-processed" data-render-type="fte" data-skip="dealsy" data-widget-type="seasonal" data-widget-id="efa25e23-9ef6-4a25-9e40-fa5bfd749c66" data-result="missing" data-feat-ref="hawk-id-0"></aside>
+<p>Stratolaunch, which weighs about 500,000 lbs. (227,000 kilograms), can carry a payload of up to 550,000 lbs. (250,000 kg). The massive aircraft will transport rocket launchers and satellites bound for low Earth orbit, according to the company&#8217;s <a class="hawk-link-parsed" href="http://www.stratolaunch.com/" data-url="http://www.stratolaunch.com/" data-component-tracked="1">website</a>. [<a class="hawk-link-parsed" href="https://www.space.com/39155-stratolaunch-wprlds-largest-plane-test-photos.html" data-url="https://www.space.com/39155-stratolaunch-wprlds-largest-plane-test-photos.html" data-component-tracked="1">Stratolaunch Test Photos: The World&#8217;s Largest Plane in Action</a>]</p>
+<div id="desktop-in-article" class="in-article ad-unit">
+<div id="desktop-taboola-mid-article" class="trc_related_container trc_spotlight_widget trc_elastic trc_elastic_thumbnails-a-mid" data-placement-name="Mid Article">
+<div class="trc_rbox_container">
+<div>
+<div id="trc_wrapper_96198" class="trc_rbox thumbnails-a-mid trc-content-sponsored ">
+<div id="trc_header_96198" class="trc_rbox_header trc_rbox_border_elm">
+<div class="trc_header_ext"></div>
+</div>
+<div id="outer_96198" class="trc_rbox_outer">
+<div id="rbox-t2m" class="trc_rbox_div trc_rbox_border_elm">
+<div id="internal_trc_96198">
+<div class="videoCube trc_spotlight_item origin-undefined thumbnail_top syndicatedItem textItem videoCube_1_child trc-first-recommendation trc-spotlight-first-recommendation  trc_excludable " data-item-id="~~V1~~9090803356045862419~~cYINxacNH4CHgBlIhkRV7MiXX9tzI_Z-Q1NhET0E17rTxvAnL2wqac4MyzR7uD46gj3kUkbS3FhelBtnsiJV6MhkDZRZzzIqDobN6rWmCPA3hYz5D3PLat6nhIftiT1lwdxwdlxkeV_Mfb3eos_TQavImGhxk0e7psNAZxHJ9RJtvW5cjeP7iQeffKvooY_qPR29yes3rGOLyg-QiBU1MBE58TLMD7Cf-4darXwisAEGWHOQwDogJcAMaC2AsNmORdbgwlJdnqyroTPEQNNEnyrGgfXraZfkqzxVI8YJiN0" data-item-title="CAD Could Be Doomed As The Truth Comes Out" data-item-thumb="http://cdn.taboola.com/libtrc/static/thumbnails/b45db30123c65549a75714363f559e27.jpg" data-item-syndicated="true">
+<div class=" trc_undo_btn "><span style="font-size: revert; color: initial;">Rocket launches from fixed locations can be delayed or halted by inclement weather and may face hazards from airborne traffic. But deploying rockets and satellites from a moving aircraft such as Stratolaunch — which would take off from a runway and release its payloads from a cruising altitude of about 36,000 feet (11,000 meters) — could reduce the risk of launch cancellations or delays from bad weather, making access to space &#8220;more convenient, reliable and routine,&#8221; Stratolaunch representatives said on the company </span><a class="hawk-link-parsed" style="font-size: revert;" href="http://www.stratolaunch.com/" data-url="http://www.stratolaunch.com/" data-component-tracked="1">website</a><span style="font-size: revert; color: initial;">.</span></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="jwplayer__widthsetter">
+<div class="jwplayer__wrapper">
+<div id="futr_botr_3hMIGpAD_UbKkvo80_div" class="future__jwplayer">
+<div class="sticky-player-top-fade stick-on"></div>
+<div class="sticky-player-background stick-on"></div>
+</div>
+</div>
+</div>
+<p>Stratolaunch resembles two conjoined airplanes connected by a central wing. It utilizes six Boeing 747 engines and has two fuselages, or aircraft bodies; the one on the right is occupied by the flight crew, and the one on the left houses flight data systems. The center wing that joins the fuselages helps to stabilize the aircraft and serves as the attachment point for rocket payloads, according to the Stratolaunch website.</p>
+<p>Allen shared video of Stratolaunch on Feb. 26 as it trundled down the runway &#8220;with all flight surfaces in place,&#8221; he wrote on Twitter.</p>
+<p>Stratolaunch first <a class="hawk-link-parsed" href="https://www.livescience.com/59324-largest-aircraft-stratolaunch-rolled-out.html" data-url="https://www.livescience.com/59324-largest-aircraft-stratolaunch-rolled-out.html" data-component-tracked="1">left its hangar</a> in May 2017, and in September, the aircraft&#8217;s engines were tested <a class="hawk-link-parsed" href="https://www.livescience.com/60497-worlds-largest-aircraft-stratolaunch-engine-tests.html" data-url="https://www.livescience.com/60497-worlds-largest-aircraft-stratolaunch-engine-tests.html" data-component-tracked="1">for the first time</a>. The plane first <a class="hawk-link-parsed" href="https://www.livescience.com/61236-stratolaunch-aircraft-taxi-test.html" data-url="https://www.livescience.com/61236-stratolaunch-aircraft-taxi-test.html" data-component-tracked="1">rolled down the runway</a> in December 2017, reaching a runway taxi speed of 40 mph (64 km/h) as technicians put the plane through its paces for steering and braking. The latest tests build on its prior runway performance, and the plane is expected to be operational by the end of the decade, according to company representatives.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://https://kchaudhary0868.github.io/news/2015/03/19/worlds-biggest-aircraft-gets-closer-to-takeoff/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Apple working on an Internet TV subscription service</title>
+		<link>https://https://kchaudhary0868.github.io/news/2015/03/19/apple-working-on-an-internet-tv-subscription-service/</link>
+					<comments>https://https://kchaudhary0868.github.io/news/2015/03/19/apple-working-on-an-internet-tv-subscription-service/#respond</comments>
+		
+		<dc:creator><![CDATA[kamal]]></dc:creator>
+		<pubDate>Thu, 19 Mar 2015 09:05:42 +0000</pubDate>
+				<category><![CDATA[Business]]></category>
+		<category><![CDATA[Tech]]></category>
+		<category><![CDATA[Apple TV]]></category>
+		<guid isPermaLink="false">http://demo.theme-junkie.com/mystery/?p=49</guid>
+
+					<description><![CDATA[Tincidunt varius sequi, integer magna ac, donec curabitur. Rhoncus sed. Lectus vitae augue, mauris tincidunt. Ut nec fermentum, dolor vestibulum. Nunc neque tincidunt, non dictumst tempus. Et id, duis sit arcu, felis porta donec. Proin tincidunt. Cum arcu pretium, sed sed. In nonummy, tempor molestie id, omnis tellus. A risus dolor, vitae et donec, mauris [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>Tincidunt varius sequi, integer magna ac, donec curabitur. Rhoncus sed. Lectus vitae augue, mauris tincidunt. Ut nec fermentum, dolor vestibulum. <a title="Testing the link styling" href="#">Nunc neque tincidunt, non dictumst tempus</a>. Et id, duis sit arcu, felis porta donec. Proin tincidunt.</p>
+<p>Cum arcu pretium, sed sed. In nonummy, tempor molestie id, omnis tellus. A risus dolor, vitae et donec, mauris amet posuere. Donec in, nonummy dolor luctus. Laoreet ligula, pretium nisl eleifend, malesuada tincidunt cursus. Congue velit iaculis.</p>
+<p>Euismod amet leo, cras et massa, eleifend egestas. Urna in nunc, nunc vivamus. Cum arcu pretium, sed sed. In nonummy, tempor molestie id, omnis tellus. A risus dolor, vitae et donec, mauris amet posuere. Donec in, nonummy dolor luctus. Laoreet ligula, pretium nisl eleifend, malesuada tincidunt cursus. Congue velit iaculis.</p>
+<p><strong> Egestas at amet. Pharetra mauris. </strong>Mattis quam feugiat, iure ipsum. Vel fringilla, accumsan nam rhoncus, orci diam. Aenean sit sodales, urna porttitor. Nulla enim consequat, amet congue. Mauris vulputate, nonummy vel.</p>
+<p>Euismod amet leo, cras et massa, eleifend egestas. Urna in nunc, nunc vivamus. Cum arcu pretium, sed sed. In nonummy, tempor molestie id, omnis tellus. A risus dolor, vitae et donec, mauris amet posuere. Donec in, nonummy dolor luctus. Laoreet ligula, pretium nisl eleifend, malesuada tincidunt cursus. Congue velit iaculis.</p>
+<blockquote><p>Tincidunt varius sequi, integer magna ac, donec curabitur. Rhoncus sed. Lectus vitae augue, mauris tincidunt. Ut nec fermentum, dolor vestibulum. Nunc neque tincidunt, non dictumst tempus. Et id, duis sit arcu, felis porta donec. Proin tincidunt.</p>
+<p><strong> Egestas at amet. Pharetra mauris. </strong>Mattis quam feugiat, iure ipsum. Vel fringilla, accumsan nam rhoncus, orci diam. Aenean sit sodales, urna porttitor. Nulla enim consequat, amet congue. Mauris vulputate, nonummy vel.</p></blockquote>
+<p>Phasellus lorem aliquam, pede morbi, nulla sed. Urna ut a. Mattis viverra dignissim, suspendisse risus, felis a. Sit nec. Sit egestas condimentum. Tempor quisque sit, commodo justo consequat. Augue fermentum, est vulputate et, purus et. Tincidunt quam enim, ac a pede.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://https://kchaudhary0868.github.io/news/2015/03/19/apple-working-on-an-internet-tv-subscription-service/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>What is the best smartwatch?</title>
+		<link>https://https://kchaudhary0868.github.io/news/2015/03/19/what-is-the-best-smartwatch/</link>
+					<comments>https://https://kchaudhary0868.github.io/news/2015/03/19/what-is-the-best-smartwatch/#respond</comments>
+		
+		<dc:creator><![CDATA[kamal]]></dc:creator>
+		<pubDate>Thu, 19 Mar 2015 08:41:14 +0000</pubDate>
+				<category><![CDATA[Tech]]></category>
+		<category><![CDATA[featured]]></category>
+		<category><![CDATA[smartwatch]]></category>
+		<guid isPermaLink="false">http://demo.theme-junkie.com/mystery/?p=16</guid>
+
+					<description><![CDATA[Track your activities and monitor your health with the best smartwatch. This wristwatch-slash-miniature companion to your smartphone is a useful tool especially if you&#8217;re trying to lead a healthy, active lifestyle or you&#8217;re on a wellness path. The more advanced models can even assist you in keeping an eye on some health concerns. Finding the [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>Track your activities and monitor your health with the best smartwatch. This wristwatch-slash-miniature companion to your smartphone is a useful tool especially if you&#8217;re trying to lead a healthy, active lifestyle or you&#8217;re on a wellness path. The more advanced models can even assist you in keeping an eye on some health concerns.</p>
+<p>Finding the absolute best smartwatch for you is vital. Not only are there many on the market, but their features and functionalities – as well as size, shape, and <a class="hawk-link-parsed" href="https://www.techradar.com/news/best-phone" data-component-tracked="1">smartphone</a> compatibility – differ as well. And, you don&#8217;t want to end up with one that won&#8217;t meet your demands or pay a lot more for one that&#8217;s a bit of an overkill for your minimal needs.</p>
+<aside class="hawk-nest hawk-processed" data-render-type="fte" data-skip="dealsy" data-widget-type="seasonal" data-widget-id="0a2e9bc5-9d01-4594-8cbe-f03c4c41ccd4" data-result="missing" data-feat-ref="hawk-id-0"></aside>
+<p>We at TechRadar have tested and reviewed most smartwatch releases out there, from the more prevalent <a class="hawk-link-parsed" href="https://www.techradar.com/news/best-apple-watch" data-component-tracked="1">Apple Watches</a> and older <a class="hawk-link-parsed" href="https://www.techradar.com/news/best-samsung-smartwatch-finding-the-right-tizen-wearable-for-you" data-component-tracked="1">Samsung smartwatches</a> to Fitbit&#8217;s offerings and <a class="hawk-link-parsed" href="https://www.techradar.com/news/best-wear-os-watch" data-component-tracked="1">Wear OS watches</a> from brands like Fossil and Mobvoi. And, we&#8217;re here to guide you in choosing the most ideal smartwatch for you by gathering the best we&#8217;ve tested and ranking them here according to budget, use, and features.</p>
+<p>For each entry though we&#8217;ve included a full specs list, along with an overview from our review and the key good and bad points. We&#8217;ve also included our price comparison tool so that you grab the best price available on the smartwatch you want. That way, you won&#8217;t have to do much research to round the choices down.</p>
+<div class="van_vid_carousel vid-present">
+<div class="van_vid_carousel__padding">
+<div class="van_vid_carousel__container">
+<div class="future__jwplayer--carousel">
+<div class="jw-carousel"></div>
+</div>
+</div>
+</div>
+</div>
+<p>If you do want to learn more though, make sure to tap through to our full review of each smartwatch. And make sure to check back soon, because new wearables keep on arriving.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://https://kchaudhary0868.github.io/news/2015/03/19/what-is-the-best-smartwatch/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Windows 10 is coming to 190 countries this summer</title>
+		<link>https://https://kchaudhary0868.github.io/news/2015/03/19/windows-10-is-coming-to-190-countries-this-summer/</link>
+					<comments>https://https://kchaudhary0868.github.io/news/2015/03/19/windows-10-is-coming-to-190-countries-this-summer/#respond</comments>
+		
+		<dc:creator><![CDATA[kamal]]></dc:creator>
+		<pubDate>Thu, 19 Mar 2015 08:15:14 +0000</pubDate>
+				<category><![CDATA[Business]]></category>
+		<category><![CDATA[Tech]]></category>
+		<category><![CDATA[Microsoft]]></category>
+		<category><![CDATA[Windows 10]]></category>
+		<guid isPermaLink="false">http://demo.theme-junkie.com/mystery/?p=27</guid>
+
+					<description><![CDATA[Times are changing in the PC space. Windows 10, the grand unification of Xbox, mobile, tablets, desktops, and laptops for Microsoft is due for release in the summer, in 190 countries and in 111 languages, the company states. So, all of that should be fun, no doubt. However, a bit of news that is more [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p id="c933" class="pw-post-body-paragraph jl jm ih jn b jo jp jq jr js jt ju jv jw jx jy jz ka kb kc kd ke kf kg kh ki ia gi" data-selectable-paragraph="">Times are changing in the PC space. Windows 10, the grand unification of Xbox, mobile, tablets, desktops, and laptops for Microsoft is due for release in the summer, in 190 countries and in 111 languages, the company states. So, all of that should be fun, no doubt.</p>
+<p id="a709" class="pw-post-body-paragraph jl jm ih jn b jo jp jq jr js jt ju jv jw jx jy jz ka kb kc kd ke kf kg kh ki ia gi" data-selectable-paragraph="">However, a bit of news that is more interesting is the free upgrade for users on Windows 7 and 8 that includes <em class="kj">all</em> versions — genuine or otherwise (!). Terry Myerson, Microsoft’s Executive Vice President of Operating Systems, told <em class="kj">Reuters</em> that, “We are upgrading all qualified PCs, genuine and non-genuine, to Windows 10.”</p>
+<p id="7338" class="pw-post-body-paragraph jl jm ih jn b jo jp jq jr js jt ju jv jw jx jy jz ka kb kc kd ke kf kg kh ki ia gi" data-selectable-paragraph="">The report was in regards to China, but considering “all qualified PCs” is a very broad term, this could also extend to other regions — and thus really make the adoption rate of Windows 10 immense, then luring the profits through the use of premium programs.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://https://kchaudhary0868.github.io/news/2015/03/19/windows-10-is-coming-to-190-countries-this-summer/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
